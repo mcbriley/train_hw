@@ -1,0 +1,10 @@
+.jumbotron {
+    text-align: center;
+    background: #428bca;
+    color: white;
+}
+
+.panel-default>.panel-heading {
+    background: #428bca;
+    color: white;
+}
